@@ -1,0 +1,15 @@
+[theme.light]
+base = "light"
+
+# General color setup
+primaryColor = "#fb923c"
+orangeColor = "#fb923c"
+orangeTextColor = "#fb923c"
+
+[theme.dark]
+base = "dark"
+
+# General color setup
+primaryColor = "#fb923c"
+orangeColor = "#fb923c"
+orangeTextColor = "#fb923c"
